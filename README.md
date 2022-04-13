@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marksulla
 - 👀 I’m interested in web 3.0 and defi 
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity and JS
 - 💞️ I’m looking to collaborate on defi projects!
 - 📫 Send me message to marksulla@yandex.ru
 
